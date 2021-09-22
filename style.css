@@ -87,7 +87,7 @@
     top:0;
     
     
-    background: url('../straw.jpg') no-repeat center center/cover ;
+    background: url('straw.jpg') no-repeat center center/cover ;
     
     
     
@@ -263,7 +263,7 @@ html{
 .client-section::before{
     content: "";
     position: absolute;
-background:url('../veg.jpg');
+background:url('veg.jpg');
 
 height: 100%;
 width:100%;
@@ -278,7 +278,7 @@ opacity: 0.4;
 #embassador-section::before{
     content: "";
     position: absolute;
-background:url('../lime.jpg');
+background:url('lime.jpg');
 
 
 height: 100%;
@@ -317,7 +317,7 @@ opacity: 0.6;
 }
  #contact::before{
     content: "";
-    background:url('../apple.jpg') ;
+    background:url('apple.jpg') ;
     position:absolute;
     height:110%;
     width:100%;
